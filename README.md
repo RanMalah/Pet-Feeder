@@ -10,7 +10,7 @@ And when he's hungry he thouches his food bowl and looks at me.
 
 So I figured, he's a big boy, he can feed himself!
 
-<video src='/images/vid.mp4'>
+
   
 The schematic
   
