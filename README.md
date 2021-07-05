@@ -18,4 +18,4 @@ The schematic
      
 The FSM
      
-<img src='/images/fsm.png' width='400'>
+<img src='/images/fsm.PNG' width='400'>
