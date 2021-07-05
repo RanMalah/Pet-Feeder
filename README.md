@@ -14,7 +14,7 @@ So I figured, he's a big boy, he can feed himself!
   
 The schematic
   
-<img src='/images/circuit.png' width='600'>
+<img src='/images/circuit.png' width='400'>
      
 The FSM
      
