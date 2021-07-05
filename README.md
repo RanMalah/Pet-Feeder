@@ -1,4 +1,4 @@
-# petFeeder
+# pet feeder
 
 That's Shimmy
 
