@@ -11,6 +11,21 @@ And when he's hungry he thouches his food bowl and looks at me.
 So I figured, he's a big boy, he can feed himself!
 
 
+
+
+
+
+The schematic
+  
+<img src='/images/circuit.png' width='400'>
+     
+The FSM
+     
+<img src='/images/fsm.PNG' width='400'>
+
+
+
+
 Components:
 - 12v DC motor with gear box 29 rpm
 - For the auger I've used a garden plant drill. e.g. https://www.banggood.com/60050mm-Garden-Auger-Earth-Planter-Drill-Bit-Post-Hole-Digger-Auger-Drill-Accessories-p-1538097.html?rmmds=detail-left-hotproducts&cur_warehouse=USA
@@ -27,13 +42,3 @@ Components:
 - Jumper wires.
 - Some plastic pipe.
 - A container.
-
-
-
-The schematic
-  
-<img src='/images/circuit.png' width='400'>
-     
-The FSM
-     
-<img src='/images/fsm.PNG' width='400'>
