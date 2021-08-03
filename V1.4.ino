@@ -3,7 +3,7 @@
 // **                  ^^^^^^^^^^^^^^^^                     **
 // **                   by Ran Malach                       **
 // **                                                       **
-// **   Controll a DC motor to drive an AUGER Doser.        **
+// **   Control a DC motor to drive an AUGER Doser.         **
 // **   Two buttons L(eft) & R(ight).                       **
 // **   Limit Feeds to twice a day + a bonus feed.          **
 // **   State machine implementation.                       **
