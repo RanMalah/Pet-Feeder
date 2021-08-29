@@ -23,7 +23,7 @@ Two buttons control the menu, setting feeding time, clock or for showing the fee
 
 <img src='/images/display.jpg' width='400'>
 
-Now all thats left is to teach him to use it and hope that he'll still like me ;)
+Now all thats left is to teach him how to use it and hope that he'll still like me ;)
 
 <img src='/images/shimmyIsChecking.jpg' width='400'>
 
