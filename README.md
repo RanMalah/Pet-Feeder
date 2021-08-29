@@ -14,8 +14,11 @@ So I figured, he's a big boy, he can feed himself!
 <img src='/images/thePetFeeder®.jpg' width='400'>
 
 The idea is that Shimmy will press that lever on the left and ask for food.
+
 He will be limited to two feeds & another half a dose per day.
-Three leds mark each feed, Feeds are documented for 7 days back.
+
+Three leds mark each feed, feeds are documented for 7 days back.
+
 Two buttons control the menu, setting feeding time, clock or for showing the feeding history.
 
 <img src='/images/display.jpg' width='400'>
