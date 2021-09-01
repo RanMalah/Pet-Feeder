@@ -17,7 +17,7 @@ So I figured, he's a big boy, he can feed himself!
 
 https://user-images.githubusercontent.com/59388284/131690718-9ba8c547-d853-4de6-84ee-d339e0c67079.mp4
 <img src='/images/thePetFeeder®.jpg' width='300'>
-
+[![SC2 Video](/images/thePetFeeder®.jpg)](https://user-images.githubusercontent.com/59388284/131690718-9ba8c547-d853-4de6-84ee-d339e0c67079.mp4)
 The idea is that Shimmy will press that lever on the left and ask for food.
 
 He will be limited to two feeds & another half a dose per day.
