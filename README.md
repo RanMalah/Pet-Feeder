@@ -12,7 +12,7 @@ And when he's hungry he thouches his food bowl and looks at me.
 So I figured, he's a big boy, he can feed himself!
 
 
-[![SC2 Video](/images/shimmy.jpeg)](/images/shimmyFeeds.mp4)
+<img src='/images/thePetFeeder®.jpeg' width='300'>
 
 The idea is that Shimmy will press that lever on the left and ask for food.
 
