@@ -1,8 +1,5 @@
 
 
-https://user-images.githubusercontent.com/59388284/131690718-9ba8c547-d853-4de6-84ee-d339e0c67079.mp4
-
-
 # pet feeder
 
 That's Shimmy
@@ -14,6 +11,7 @@ Shimmy is hungry.
 And when he's hungry he thouches his food bowl and looks at me.
 
 So I figured, he's a big boy, he can feed himself!
+
 [<img src='/images/thePetFeeder®.jpg' width='300'>](https://user-images.githubusercontent.com/59388284/131690718-9ba8c547-d853-4de6-84ee-d339e0c67079.mp4)
 
 
