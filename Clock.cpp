@@ -13,15 +13,7 @@ char* days[] = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
 		min = 0;
 		hour = 0;
 	}
-	Clock::Clock(const Clock& other)
-	{
-    feedCnt = other.feedCnt;
-    elapsedSecs = other.elapsedSecs;
-		sec = other.sec;
-		min = other.min;
-		hour = other.hour;
-		day = other.day;
-	}
+	
 	void Clock::setDay(const weekDays d)
 	{
 		day = d;
