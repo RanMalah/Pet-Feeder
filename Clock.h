@@ -19,7 +19,6 @@ class Clock
 	
 public:
 	Clock();
-	Clock(const Clock&);
 	void setDay(const weekDays);
 	void setSec();
 	void setMin(const uint8_t);
